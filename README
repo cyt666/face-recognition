@@ -1,0 +1,8 @@
+instruction to use:
+
+1. make                                 //to train the model
+2. make compile 						//to compile facerecog
+3. make run								//to run facerecog
+
+press I to save face image in temp folder.
+change the mode in makefile to use in different mode. After change in mode always "make".
